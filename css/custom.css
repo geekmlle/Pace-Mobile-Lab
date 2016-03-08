@@ -125,7 +125,7 @@ header .header-content .header-content-inner p {
 }
 
 .content {
-    padding: 100px 0;
+    padding: 60px 0;
 }
 
 .content-2 {
@@ -138,6 +138,7 @@ header .header-content .header-content-inner p {
 	text-align: center;
 }
 
+
 .promo,
 .promo h3,
 .promo a:link,
@@ -147,11 +148,12 @@ header .header-content .header-content-inner p {
     color: white;
 	text-shadow: 0px 0px 40px black;
     text-decoration: none;
+
 }
 
 .promo-item {
-    background-size: 50%;
-    line-height: 180px;
+    background-size: 100%;
+    line-height: 200px;
     text-align: center;
     border: 10px solid #fff;
 }
@@ -159,12 +161,12 @@ header .header-content .header-content-inner p {
 .promo-item:hover {
     background-size: 103%;
     border: 20px solid #fff;
-    line-height: 150px;
+    line-height: 190px;
 
 }
 
 .promo-item h3 {
-    font-size: 40px;
+    font-size: 36px;
     display: inline-block;
     vertical-align: middle;
 
@@ -179,7 +181,7 @@ header .header-content .header-content-inner p {
 	}
 
 .item-3 {
-	background: url('../images/appDevelopmentBowl.jpg');
+	background: url('../images/mitAppInventor.jpg');
 	}
 
 .item-4 {
@@ -191,43 +193,47 @@ header .header-content .header-content-inner p {
 }
 
 .item-6 {
-    background: url('../images/iphone.jpg');
-}
-
-.item-7 {
-    background: url('../images/phones.jpg');
-}
-
-.item-8 {
-    background: url('../images/android.jpg');
-}
-
-.item-9 {
     background: url('../images/appDock.jpg');
 }
 
+.item-7 {
+    background: url('../images/MITCit.JPG');
+}
+
+.item-8 {
+    background: url('../images/cs639.JPG');
+}
+
+.item-9 {
+    background: url('../images/cs643.jpg');
+}
 .item-10 {
     background: url('../images/androidLogo.jpg');
 }
 .item-11 {
     background: url('../images/lilypad.jpg');
 }
-		
-.item-1,
-.item-2,
-.item-3,
-.item-4,
-.item-5,
-.item-6,
-.item-7,
-.item-8,
-.item-9,
-.item-10,
-.item-11{
+.item-12 {
+    background: url('../images/cs641.jpg');
+}
+.item-13 {
+    background: url('../images/dataDevelopment.JPG');
+}
+.item-14 {
+     background: url('../images/entrepreneurship.jpg');
+}
+.item-15 {
+    background: url('../images/MITCit.JPG');
+}
+
+
+.item-div{
     background-repeat: no-repeat;
     background-size: 100%;
-	background-position: 50% 50%;
-	}
+    background-position: 50% 50%;
+
+
+}
 
 .team{
     height:60%;
@@ -249,7 +255,7 @@ header .header-content .header-content-inner p {
 
 .page-footer .contact {
 	padding: 100px 0;
-	background-color: #F07241;
+	background-color: #222;
 	color: #fff;
 	}
 
@@ -277,10 +283,15 @@ header .header-content .header-content-inner p {
     color: rgba(255,255,255,.7);
 }
 
+#brand-logo{
+    height:40px;
+    padding:0;
+    margin:0;
+}
 
 .navbar-default {
     border:none;
-    padding-top:30px;
+    padding-top:10px;
     background-color: #fff;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
@@ -336,6 +347,12 @@ header .header-content .header-content-inner p {
     .navbar-default .nav > li>a,
     .navbar-default .nav>li>a:focus {
         color: rgba(255,255,255,.7);
+    }
+
+    .float-left {
+        float:left;
+        top:-15px;
+        position:relative;
     }
 
     .navbar-default .nav > li>a:hover,
@@ -478,6 +495,10 @@ fieldset[disabled] .btn-primary.active {
 
 .bold{
     font-weight:bold;
+}
+
+.white-link{
+    color:#fff;
 }
 
 .btn {

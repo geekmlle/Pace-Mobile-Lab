@@ -18,7 +18,7 @@ a:focus {
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.5;
 }
 
@@ -104,6 +104,11 @@ header .header-content .header-content-inner p {
 
 }
 
+#brand-logo{
+    height:40px;
+    padding:0;
+    margin:0;
+}
 
 .section-heading {
     margin-top: 0;
@@ -119,7 +124,7 @@ header .header-content .header-content-inner p {
 
 .article-top {
     color: #fff;
-    background-color: #521BB8;
+    background-color: #1b0b48;
     padding: 150px 0 40px 0;
     text-align: center;
 }
@@ -273,6 +278,12 @@ header .header-content .header-content-inner p {
     .navbar-default .navbar-header .navbar-brand:hover,
     .navbar-default .navbar-header .navbar-brand:focus {
         color: #fff;
+    }
+
+    .float-left {
+        float:left;
+        top:-15px;
+        position:relative;
     }
 
     .navbar-default .nav > li>a,
