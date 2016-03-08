@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfc29b40-b733-4a01-b286-7ae58ee99821" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/activities.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/android.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/female-silhouette.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/glass.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/male-silhouette.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/printer3D.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/IMG_0173.jpg" afterPath="$PROJECT_DIR$/images/IMG_0173.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/androidLogo.jpg" afterPath="$PROJECT_DIR$/images/androidLogo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/appDock.jpg" afterPath="$PROJECT_DIR$/images/appDock.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/customArticle.css" afterPath="$PROJECT_DIR$/css/customArticle.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/everyday-glass.html" afterPath="$PROJECT_DIR$/everyday-glass.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
     </list>
     <ignored path="business-2 copy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,21 +30,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.54375">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="4.311449">
-                  <caret line="359" column="24" selection-start-line="359" selection-start-column="24" selection-end-line="359" selection-end-column="24" />
+                <state vertical-scroll-proportion="-25.0">
+                  <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="49" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="everyday-glass.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="everyday-glass.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/everyday-glass.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+                <state vertical-scroll-proportion="0.48038432">
+                  <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
@@ -68,8 +57,8 @@
           <file leaf-file-name="customArticle.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/customArticle.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="4.8278623">
-                  <caret line="402" column="1" selection-start-line="402" selection-start-column="1" selection-end-line="402" selection-end-column="1" />
+                <state vertical-scroll-proportion="0.3634908">
+                  <caret line="111" column="1" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -78,8 +67,8 @@
           <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/custom.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-40.583332">
-                  <caret line="218" column="8" selection-start-line="218" selection-start-column="8" selection-end-line="218" selection-end-column="8" />
+                <state vertical-scroll-proportion="-20.625">
+                  <caret line="285" column="0" selection-start-line="285" selection-start-column="0" selection-end-line="290" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -110,13 +99,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/customArticle.css" />
         <option value="$PROJECT_DIR$/project.html" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/article.html" />
-        <option value="$PROJECT_DIR$/everyday-glass.html" />
         <option value="$PROJECT_DIR$/css/font-awesome.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/everyday-glass.html" />
+        <option value="$PROJECT_DIR$/css/customArticle.css" />
       </list>
     </option>
   </component>
@@ -649,12 +638,12 @@
       <option name="number" value="Default" />
       <updated>1456778084071</updated>
       <workItem from="1456778085363" duration="25489000" />
-      <workItem from="1457395135393" duration="55000" />
+      <workItem from="1457395135393" duration="2719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25544000" />
+    <option name="totallyTimeSpent" value="28208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="-306" width="1280" height="1417" extended-state="0" />
@@ -768,14 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/everyday-glass.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -784,26 +765,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.0">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="49" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/everyday-glass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48038432">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-40.583332">
-          <caret line="218" column="8" selection-start-line="218" selection-start-column="8" selection-end-line="218" selection-end-column="8" />
+        <state vertical-scroll-proportion="-20.625">
+          <caret line="285" column="0" selection-start-line="285" selection-start-column="0" selection-end-line="290" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/customArticle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.8278623">
-          <caret line="402" column="1" selection-start-line="402" selection-start-column="1" selection-end-line="402" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.311449">
-          <caret line="359" column="24" selection-start-line="359" selection-start-column="24" selection-end-line="359" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.3634908">
+          <caret line="111" column="1" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
           <folding />
         </state>
       </provider>

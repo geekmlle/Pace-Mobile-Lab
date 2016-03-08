@@ -106,8 +106,9 @@ header .header-content .header-content-inner p {
 
 #brand-logo{
     height:40px;
-    padding:0;
+    padding:0 0 0 20px;
     margin:0;
+    float:left;
 }
 
 .section-heading {
@@ -282,7 +283,6 @@ header .header-content .header-content-inner p {
 
     .float-left {
         float:left;
-        top:-15px;
         position:relative;
     }
 
