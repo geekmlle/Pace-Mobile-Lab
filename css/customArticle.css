@@ -118,14 +118,14 @@ header .header-content .header-content-inner p {
 
 .intro {
 	color: #fff;
-    background-color: #521BB8;
+    background-color: #151616;
     padding: 70px 0;
     text-align: center;
 }
 
 .article-top {
     color: #fff;
-    background-color: #1b0b48;
+    background-color: #2a2b2b;
     padding: 150px 0 40px 0;
     text-align: center;
 }
@@ -236,7 +236,7 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: #521BB8;
+    color: #F07241;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -251,12 +251,12 @@ header .header-content .header-content-inner p {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #521BB8;
+    color: #F07241;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #521BB8 !important;
+    color: #F07241 !important;
     background-color: transparent;
 }
 
@@ -304,7 +304,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         letter-spacing: 0;
-        color: #521BB8;
+        color: #F07241;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -319,7 +319,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #521BB8;
+        color:#F07241;
     }
 }
 
