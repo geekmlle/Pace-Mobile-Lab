@@ -34,3 +34,5 @@ navHolder.find("li a").each(function(){
 		}
 	}
 });
+
+$('body').scrollspy({ target: '#navbar' })
