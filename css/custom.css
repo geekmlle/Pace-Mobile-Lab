@@ -154,7 +154,7 @@ header .header-content .header-content-inner p {
 
 .promo-item {
     background-size: 100%;
-    line-height: 200px;
+    line-height: 250px;
     text-align: center;
     border: 10px solid #fff;
 }
@@ -162,7 +162,7 @@ header .header-content .header-content-inner p {
 .promo-item:hover {
     background-size: 103%;
     border: 20px solid #fff;
-    line-height: 190px;
+    line-height: 245px;
 
 }
 
@@ -215,7 +215,7 @@ header .header-content .header-content-inner p {
     background: url('../images/lilypad.jpg');
 }
 .item-12 {
-    background: url('../images/cs641.jpg');
+    background: url('../images/ionic.png');
 }
 .item-13 {
     background: url('../images/dataDevelopment.JPG');
@@ -232,8 +232,6 @@ header .header-content .header-content-inner p {
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: 50% 50%;
-
-
 }
 
 .team{
