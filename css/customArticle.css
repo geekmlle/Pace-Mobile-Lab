@@ -433,6 +433,17 @@ fieldset[disabled] .btn-primary.active {
     font-weight:bold;
 }
 
+.prezi{
+    margin:0;
+}
+
+.preziImage{
+    vertical-align:baseline;
+    position:relative;
+    top:6px;
+    width:40px;
+}
+
 .btn {
     border-radius: 300px;
     text-transform: uppercase;
