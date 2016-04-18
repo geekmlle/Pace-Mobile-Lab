@@ -234,6 +234,14 @@ header .header-content .header-content-inner p {
     background-position: 50% 50%;
 }
 
+.spotlight-image{
+    height:30%;
+    width:80%;
+    position:relative;
+    margin:0;
+    padding:0;
+}
+
 .team{
     height:60%;
     width:60%;
