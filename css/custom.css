@@ -153,6 +153,7 @@ header .header-content .header-content-inner p {
 }
 
 .promo-item {
+    border-radius:50px;
     background-size: 100%;
     line-height: 250px;
     text-align: center;
@@ -225,6 +226,9 @@ header .header-content .header-content-inner p {
 }
 .item-15 {
     background: url('../images/MITCit.JPG');
+}
+.item-16 {
+    background: url('../images/software_engineering.jpg');
 }
 
 
